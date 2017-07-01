@@ -1,4 +1,4 @@
-STCE (Simple Text Communication Engine)
+# STCE (Simple Text Communication Engine)
 
 STCE is a project I'm undertaking to make a new type of social media engine that meets the following goals:
 
